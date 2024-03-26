@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucy Ruiz -> @lucy-rz
-- 👀 I’m interested in new challenges, opportunities to learn and to contribute. On my free time I really enjoy reading fiction and playing boardgames.
+- 👀 I’m interested in new challenges, opportunities to learn and to contribute. In my free time I really enjoy reading fiction and playing boardgames.
 - 🌱 I’m currently learning full stack software development, as part of the Adobe Digital Academy and General Assembly.
 - 💞️ I’m looking to collaborate on creative projects and products that have a positive impact in our day-to-day.
 - 📫 How to reach me https://www.linkedin.com/in/lucy-ruiz/
